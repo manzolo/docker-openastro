@@ -15,7 +15,6 @@ $ make setup
 
 ## Configuration
 - Clone repository
-- cd openastro
 - make setup #build docker image
 - make run #run docker container
 
